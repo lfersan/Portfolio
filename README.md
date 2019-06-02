@@ -1,4 +1,5 @@
-Itch.io Profile: https://caesarmmxiv.itch.io/
+Itch.io Profile: https://caesarmmxiv.itch.io
+
 GitHub: https://github.com/lfersan?tab=stars
 
 Public:
